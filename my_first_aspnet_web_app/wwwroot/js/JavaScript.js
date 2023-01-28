@@ -4,5 +4,6 @@
         ", Message: " + $("#textmessage").val());
 
     $("#profpic").fadeToggle();
+    alert("Hello");
 })
 
